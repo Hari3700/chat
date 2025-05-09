@@ -1,0 +1,179 @@
+[
+  {
+    "intent": "cmyuva_intro",
+    "patterns": [
+      "What is CMYUVA?",
+      "Tell me about CMYUVA",
+      "Chief Minister's Young Entrepreneur Development Campaign",
+      "CMYUVA campaign details"
+    ],
+    "responses": [
+      "The Chief Minister's Young Entrepreneur Development Campaign is a government initiative aimed at promoting entrepreneurship among the youth. The goal of this campaign is to provide financial support, guidance, and training to young individuals. Visit CMYUVA Official Site:<a href=\"https://cmyuva.iid.org.in/home\" target=\"_blank\">Visit CMYUVA</a>"
+    ]
+  },
+  {
+    "intent": "eligibility_criteria",
+    "patterns": [
+      "Who is eligible for CMYUVA?",
+      "Eligibility for CMYUVA scheme",
+      "CMYUVA age and qualification requirement"
+    ],
+    "responses": [
+      "Age: 21 to 40 years. Educational qualification: Minimum 8th grade. Skill-related certificate, diploma, or degree from a recognized institution."
+    ]
+  },
+  {
+    "intent": "key_points",
+    "patterns": [
+      "Key features of CMYUVA",
+      "Important points of CMYUVA scheme",
+      "Highlights of the scheme"
+    ],
+    "responses": [
+      "Provision of self-employment opportunities to 1 lakh youth annually, totaling 10 lakh over 10 years. Interest-free and collateral-free loan up to Rs. 5 lakh. 10% margin money subsidy on the project cost."
+    ]
+  },
+  {
+    "intent": "key_aspects",
+    "patterns": [
+      "key aspects of CMYUVA?",
+      "Explain the focus and benefits of CMYUVA",
+      "CMYUVA scheme?"
+    ],
+    "responses": [
+      "Target Audience: Youth aged 18–40. Support includes financial help, training, and loan facilities. Focus areas: Manufacturing, services, etc. Benefits: Economic empowerment, self-employment, equal opportunities, and a culture of entrepreneurship."
+    ]
+  },
+  {
+    "intent": "required_documents",
+    "patterns": [
+      "What documents are needed for CMYUVA?",
+      "Required documents for CMYUVA",
+      "Which papers are needed for application?"
+    ],
+    "responses": [
+      "Skill Documents: Skill Certificate, Training Certificate, Computer Training Certificate, Training from ITI. Project Documents: Project Report, GST (Optional), Udyam (Optional). Self Documents: PAN Card, address proof, bank passbook copy, notarized affidavit, education and age certificates, photo, and signature."
+    ]
+  },
+  {
+    "intent": "greeting",
+    "patterns": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good evening"
+    ],
+    "responses": [
+      "Yes, how can I help you?"
+    ]
+  },
+  {
+    "intent": "odop",
+    "patterns": [
+      "odop",
+      "odap",
+      "odp",
+      "tell me about odop",
+      "what is odop?"
+    ],
+    "responses": [
+      "ODOP is a Government of India initiative aimed at fostering balanced regional development by identifying and promoting one product from each district that has a unique identity, traditional value, or high potential for growth and export."
+    ]
+  },
+  {
+    "intent": "vssy",
+    "patterns": [
+      "vssy",
+      "vishwakarma scheme",
+      "tell me about vssy",
+      "what is vssy?"
+    ],
+    "responses": [
+      "VSSY is a scheme by the Government of Uttar Pradesh to support and promote traditional artisans and craftsmen (like carpenters, tailors, barbers, etc.) by providing them financial assistance and training."
+    ]
+  },
+  {
+    "intent": "cm_yuva",
+    "patterns": [
+      "w",
+      "chief minister yuva scheme",
+      "what is cm yuva",
+      "yuva scheme"
+    ],
+    "responses": [
+      "CM YUVA is a state-level initiative (e.g., in Madhya Pradesh and other states) aimed at encouraging entrepreneurship among the youth by providing them financial assistance and subsidies to start their own businesses."
+    ]
+  },
+  {
+    "intent": "agri_loan",
+    "patterns": [
+      "agri loan",
+      "agriculture loan",
+      "loan for farmers",
+      "what is agri loan"
+    ],
+    "responses": [
+      "An Agri Loan is a credit facility provided to farmers and agri-entrepreneurs for activities related to agriculture and allied sectors (like farming, dairy, poultry, irrigation, equipment purchase, etc.)."
+    ]
+  },
+  {
+    "intent": "msme1connect",
+    "patterns": [
+      "msme1connect",
+      "msme portal",
+      "msme connect",
+      "where is msme1connect link"
+    ],
+    "responses": [
+      "<a href=\"https://msme1connect.up.gov.in/\" target=\"_blank\">Visit MSME1Connect</a>"
+    ]
+  },
+  {
+    "intent": "udyam",
+    "patterns": [
+      "udyam",
+      "udyam registration",
+      "register on udyam",
+      "udyam link"
+    ],
+    "responses": [
+      "<a href=\"https://udyamregistration.gov.in/\" target=\"_blank\">Visit Udyam Registration</a>"
+    ]
+  },
+  {
+    "intent": "msme",
+    "patterns": [
+      "msme",
+      "what is msme",
+      "msme website",
+      "about msme"
+    ],
+    "responses": [
+      "AI-driven platform for MSMEs. <a href=\"https://msme.gov.in/\" target=\"_blank\">Visit MSME Official Website</a>"
+    ]
+  },
+  {
+    "intent": "upsdc",
+    "patterns": [
+      "upsdc",
+      "business registration",
+      "register on upsdc",
+      "upsdc link"
+    ],
+    "responses": [
+      "<a href=\"https://diupmsme.upsdc.gov.in/login/Registration_Login\" target=\"_blank\">Visit Business Registration Portal</a>"
+    ]
+  },
+  {
+    "intent": "document_info",
+    "patterns": [
+      "Tell me about the documents required",
+      "List of documents for CMYUVA",
+      "Full document checklist"
+    ],
+    "responses": [
+      "Skill, Project, and Self documents including PAN Card, Training Certificates, Project Report, and more. Refer to the CMYUVA site or official notification for full list."
+    ]
+  }
+]
